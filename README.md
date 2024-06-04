@@ -8,6 +8,9 @@ I am dreaming of a harmonious life through AI
 
 
 
+![Static Badge](https://img.shields.io/badge/blog-%3C%23FF4785%3E?style=flat&logo=tistory&logoColor=white&color=%23FF4785&link=https%3A%2F%2Fwoans0104.tistory.com%2F)
+![Static Badge](https://img.shields.io/badge/woans0104%40gmail.com-%3C%23FF4785%3E?style=flat&logo=gmail&logoColor=white&color=%23EA4335&link=woans0104%40gmail.com)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/woans0104)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=woans0104&show_icons=true)  
