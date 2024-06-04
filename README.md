@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Jaemoon 
 I am dreaming of a harmonious life through AI
 
-🌍 My dream is to create a world where everyone can live well.
-💬 I enjoy getting to know diverse people, discussing, and sharing ideas.
-🤔 I love processing and sharing knowledge in an effective way.
-✨ I aspire to be a person who has a positive impact on those around me. My goal is to become a researcher who creates value for the company and fosters passion and growth among colleagues.
+🌍 My dream is to create a world where everyone can live well.   
+💬 I enjoy getting to know diverse people, discussing, and sharing ideas.   
+🤔 I love processing and sharing knowledge in an effective way.   
+✨ I aspire to be a person who has a positive impact on those around me. My goal is to become a researcher who creates value for the company and fosters passion and growth among colleagues.   
 
 
 
